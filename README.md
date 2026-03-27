@@ -5,7 +5,7 @@ A board with a screen and capacitive pads to play the common hand game, chopstic
 
 ## Details
 PCB made using KiCAD \
-Firmware made using KMK
+Firmware made with CircuitPython
 
 ## About
 There was no 3D modelling involved in this project, because I wanted the final outcome to be as minimal as possible. Just a flat PCB with a chip and a screen. I wanted to make a chopsticks AI for a few months, and after making the code for it, I wanted to make a piece of hardware that you could play it with.
