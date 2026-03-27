@@ -20,9 +20,5 @@ There was no 3D modelling involved in this project, because I wanted the final o
 
 ## BOM
 
-- 1x Seeed XIAO RP2040 (Microcontroller)
-- 16x Cherry MX Switches
-- 16x Blank White DSA Keycaps
-- 3x SK6812 MINI-E LEDs
-- 4x M3x16 Bolt
-- 4x M3 Heatset
+- 1x [Seeed Studio XIAO RP2040](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) (Microcontroller)
+- 1x SSD1306 I2C OLED Display (128x32 pixels)
