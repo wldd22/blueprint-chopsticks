@@ -490,7 +490,7 @@
       "plot": "../production/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../cad/PCB.step",
       "svg": "",
       "vrml": ""
     },
