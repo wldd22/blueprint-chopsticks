@@ -1,7 +1,7 @@
 # Chopsticks
 A board with a screen and capacitive pads to play the common hand game, chopsticks, with a perfect algorithm! Made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
 
-![PCB Render](images/PCB.png)
+![Full Board Render](images/CAD.png)
 
 ## Details
 PCB made using KiCAD \
@@ -17,6 +17,7 @@ There was no 3D modelling involved in this project, because I wanted the final o
 
 ### PCB
 ![PCB Routing](images/Routing.png)
+![PCB Render](images/PCB.png)
 
 ## BOM
 
