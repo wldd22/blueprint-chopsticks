@@ -20,6 +20,9 @@ There was no 3D modelling involved in this project, because I wanted the final o
 ![PCB Render](images/PCB.png)
 
 ## BOM
-
-- 1x [Seeed Studio XIAO RP2040](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) (Microcontroller)
-- 1x SSD1306 I2C OLED Display (128x32 pixels)
+| Item | Description | Quantity | Source | Cost | Amount |
+| --- | --- | --- | --- | --- | --- |
+| Seeed Studio XIAO RP2040 | Microcontroller | 1 | [Robu](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) | ₹529.00 | ₹529.00 |
+| SSD1306 I2C OLED Display | 128x32 OLED | 1 | [Robu](https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/) | ₹212.00 | ₹212.00 |
+| Robu Shipping | Standard Shipping | - | - | - | ₹49.00 |
+| **TOTAL** | | | | | ₹790.00 ≈ USD$8.20 |
