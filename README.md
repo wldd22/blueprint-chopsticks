@@ -1,5 +1,5 @@
 # Chopsticks
-A board with a screen and capacitive pads to play the common hand game, chopsticks, with a perfect algorithm! Made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
+A board with a screen and capacitive pads to play the common hand game, chopsticks, with a perfect algorithm! Originally made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
 
 ![Full Board Render](images/CAD.png)
 
